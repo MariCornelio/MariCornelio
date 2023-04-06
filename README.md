@@ -122,9 +122,9 @@ Collaborative work - Problem solving - Professionalism - Self learning
   <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-social-network&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
 <a href="https://github.com/MariCornelio/dataLovers-SG-MF">
-  <img align="center" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=dataLovers-SG-MF&hide_border=true&show_icons=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF " />
-
+  <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=dataLovers-SG-MF&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
+
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariCornelio&theme=dracula&title_color=D291BC&exclude_repo=curso-git.github.io,practica-git-main.github.io&layout=compact) -->
