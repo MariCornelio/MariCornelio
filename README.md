@@ -34,7 +34,9 @@ Collaborative work - Problem solving - Professionalism - Self learning
 
 <h2 style="color:#FBB195FF;">Languages and Tools</h2>
 <details>
-<summary><img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3YzQzNzZlMzRiOTY4MmNlZTczMjhiMmMxYTgxOTU4MThmYmY0ZCZjdD1z/FOF8kogyNXMnU8aNT7/giphy.gif" width=50></img></summary>
+<summary>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3YzQzNzZlMzRiOTY4MmNlZTczMjhiMmMxYTgxOTU4MThmYmY0ZCZjdD1z/FOF8kogyNXMnU8aNT7/giphy.gif" width=50></img>
+</summary>
 <kbd>
 <img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751115/angularMariCornelio.svg" alt="Logo" width="35" height="35" >
 </kbd>
