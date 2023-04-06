@@ -33,30 +33,78 @@ Collaborative work - Problem solving - Professionalism - Self learning
 <h2 style="color:#FBB195FF;">Languages and Tools</h2>
 <details>
 <summary><img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU3YzQzNzZlMzRiOTY4MmNlZTczMjhiMmMxYTgxOTU4MThmYmY0ZCZjdD1z/FOF8kogyNXMnU8aNT7/giphy.gif" width=50></img></summary>
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751115/angularMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751670/figmaMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751805/firebaseMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751806/gitMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752077/githubMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752077/npmjsMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752079/typescriptlangMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752079/CSSMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/htmlMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/zoomMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/trelloMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/jsMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/nodejsMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/textstudioMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/markdownMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/github-pagesMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/gitbashMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/visualstudioMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755442/insomniaMariCornelio.jpg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/meetMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/matlabMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/jestMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/jsonMariCornelio.svg" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
-<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680756132/atomMariCornelio.png" alt="Logo" width="35" height="35" style="background-color:#222;padding:8px;border-radius:5px;">
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751115/angularMariCornelio.svg" alt="Logo" width="35" height="35" >
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751670/figmaMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751805/firebaseMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680751806/gitMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752077/githubMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752077/npmjsMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752079/typescriptlangMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752079/CSSMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/htmlMariCornelio.svg" alt="Logo" width="35" height="35" >
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/zoomMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/trelloMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/jsMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/nodejsMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/textstudioMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752558/markdownMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680752559/github-pagesMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/gitbashMariCornelio.png" alt="Logo" width="35" height="35" style=>
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/visualstudioMariCornelio.svg" alt="Logo" width="35" height="35" >
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755442/insomniaMariCornelio.jpg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/meetMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/matlabMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/jestMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/jsonMariCornelio.svg" alt="Logo" width="35" height="35">
+</kbd>
+<kbd>
+<img src="https://res.cloudinary.com/assetsmari/image/upload/v1680756132/atomMariCornelio.png" alt="Logo" width="35" height="35">
+</kbd>
 </details>
 <h2 style="color:#FBB195FF;">GitHub Profile Stats</h2>
 
@@ -65,16 +113,16 @@ Collaborative work - Problem solving - Professionalism - Self learning
 <h2 style="color:#FBB195FF;"> Top Projects </h2>
 <p align="left">
 <a href="https://github.com/MariCornelio/DEV003-burger-queen-api-client">
-  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-burger-queen-api-client&show_icons=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-burger-queen-api-client&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
 <a href="https://github.com/MariCornelio/markdown-links">
-  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=markdown-links&show_icons=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=markdown-links&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
 <a href="https://github.com/MariCornelio/DEV003-social-network">
-  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-social-network&show_icons=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+  <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-social-network&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
 <a href="https://github.com/MariCornelio/dataLovers-SG-MF">
-  <img align="center" style="margin:10px;" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=dataLovers-SG-MF&show_icons=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF " />
+  <img align="center" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=dataLovers-SG-MF&hide_border=true&show_icons=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF " />
 
 </a>
 </p>
