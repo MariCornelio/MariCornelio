@@ -1,13 +1,15 @@
 <h2 align="center"> Hi I'am Marilu Cornelio!   <img  src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width=40></img></h2>
 
 <p align="center">
-<a href="https://github.com/MariCornelio"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB195&center=true&width=435&lines=Front-End+Developer+%26+Mathematician;Tech++%26+Research+Lover;Always+innovating+and+learning" alt="Marilu Cornelio" /></a>
+<a href="https://github.com/MariCornelio"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB195&center=true&width=435&lines=Front-End+Developer+%26+Mathematician;Tech++%26+Research+Lover;Always+innovating+and+learning" alt="Marilu Cornelio" />
+</a>
 </p>
 <!-- #FBB195FF -->
 <p align="center">
 <a href="https://www.linkedin.com/in/maricornelio/">
-<img  src="https://res.cloudinary.com/assetsmari/image/upload/v1680750731/linkedinMariCornelio.png" width=40 style="margin-right:10px;"></img>
+<img  src="https://res.cloudinary.com/assetsmari/image/upload/v1680750731/linkedinMariCornelio.png" width=40 ></img>
 </a>
+  &#8287;&#8287;
 <a href="mailto:katherinacornelio@gmail.com?subject=Correo%20desde%20mi%20README&body=Hola%20Mari Cornelio,%20">
 <img  src="https://res.cloudinary.com/assetsmari/image/upload/v1680749455/emailMariCornelio.png" width=40></img>
 </a>
@@ -113,18 +115,21 @@ Collaborative work - Problem solving - Professionalism - Self learning
 <h2 style="color:#FBB195FF;"> Top Projects </h2>
 <p align="left">
 <a href="https://github.com/MariCornelio/DEV003-burger-queen-api-client">
-  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-burger-queen-api-client&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+  <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-burger-queen-api-client&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
+  &#8287;&#8287;
 <a href="https://github.com/MariCornelio/markdown-links">
-  <img align="center" width=320 style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=markdown-links&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+  <img align="center" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=markdown-links&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
+</p>
+<p align="left">
 <a href="https://github.com/MariCornelio/DEV003-social-network">
   <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-social-network&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
+  &#8287;&#8287;
 <a href="https://github.com/MariCornelio/dataLovers-SG-MF">
   <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=dataLovers-SG-MF&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
-
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariCornelio&theme=dracula&title_color=D291BC&exclude_repo=curso-git.github.io,practica-git-main.github.io&layout=compact) -->
