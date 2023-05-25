@@ -1,4 +1,4 @@
-<h2 align="center"> Hi I'am Marilu Cornelio!   <img  src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width=40></img></h2>
+<h2 align="center"> Hi, I am Marilu Cornelio!   <img  src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width=40></img></h2>
 
 <p align="center">
 <a href="https://github.com/MariCornelio"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB195&center=true&width=435&lines=Front-End+Developer+%26+Mathematician;Tech++%26+Research+Lover;Always+innovating+and+learning" alt="Marilu Cornelio" />
@@ -103,9 +103,9 @@ Collaborative work - Problem solving - Professionalism - Self learning
 <kbd>
 <img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/jestMariCornelio.svg" alt="Logo" width="35" height="35">
 </kbd>
-<kbd>
+<!-- <kbd>
 <img src="https://res.cloudinary.com/assetsmari/image/upload/v1680755443/jsonMariCornelio.svg" alt="Logo" width="35" height="35">
-</kbd>
+</kbd> -->
 <kbd>
 <img src="https://res.cloudinary.com/assetsmari/image/upload/v1680756132/atomMariCornelio.png" alt="Logo" width="35" height="35">
 </kbd>
@@ -116,21 +116,32 @@ Collaborative work - Problem solving - Professionalism - Self learning
 
 <h2 style="color:#FBB195FF;"> Top Projects </h2>
 <p align="left">
-<a href="https://github.com/MariCornelio/DEV003-burger-queen-api-client">
+ <a href="https://github.com/MariCornelio/DEV003-burger-queen-api-client">
   <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-burger-queen-api-client&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
-</a>
+ </a>
   &#8287;&#8287;
-<a href="https://github.com/MariCornelio/markdown-links">
-  <img align="center" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=markdown-links&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+ <a href="https://github.com/MariCornelio/KwaiStore">
+  <img align="center" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=KwaiStore&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
 </p>
 <p align="left">
+
+<a href="https://github.com/MariCornelio/markdown-links">
+  <img align="center" width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=markdown-links&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+</a>
+&#8287;&#8287;
 <a href="https://github.com/MariCornelio/DEV003-social-network">
   <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-social-network&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
-  &#8287;&#8287;
+</p>
+
+<p align="left">
 <a href="https://github.com/MariCornelio/dataLovers-SG-MF">
   <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=dataLovers-SG-MF&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
+</a>
+ &#8287;&#8287;
+ <a href="https://github.com/MariCornelio/DEV003-card-validation">
+  <img align="center" width=320  src="https://github-readme-stats.vercel.app/api/pin/?username=MariCornelio&repo=DEV003-card-validation&show_icons=true&hide_border=true&theme=dracula&title_color=D291BC&icon_color=FBB195FF" />
 </a>
 </p>
 
